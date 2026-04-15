@@ -84,3 +84,5 @@ O objetivo deste projeto é projetar e implementar o núcleo de um sistema unive
 | **Segurança**       | Implementação de Roles e restrição de privacidade por coluna (DCL). | 1.0       |
 | **Consultas**       | Precisão técnica nas 4 queries DML (Joins, Agregações, Subqueries). | 2.5       |
 | **Teoria**          | Explicação correta sobre Concorrência e propriedades ACID.          | 1.0       |
+
+![alt text](<ChatGPT Image 15 de abr. de 2026, 20_12_43.png>)
